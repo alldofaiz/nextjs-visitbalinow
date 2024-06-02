@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# VisitBaliNow
+
+Welcome to VisitBaliNow, your ultimate guide for exploring the beautiful island of Bali. Our mission is to provide you with the best travel experiences and help you make unforgettable memories.
+
+## About Us
+
+VisitBaliNow is a dedicated platform created by a passionate team of travel enthusiasts. We offer comprehensive travel and transportation services, ensuring a hassle-free and memorable journey for all our customers.
+
+## Features
+
+- Detailed information about Bali's top destinations
+- Easy booking for travel and transportation services
+- Recommendations for top hotels and experienced guides
+- Real-time travel updates and tips
+
+## Contact Us
+
+If you are interested in purchasing this website or exploring potential collaboration opportunities, please feel free to reach out to us.
+
+**Email:** [alldofaiz@gmail.com](mailto:alldofaiz@gmail.com)
+
+We are open to discussions and looking forward to potential partnerships.
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running follow these simple steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Prerequisites
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js
+- npm (Node Package Manager)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/yourusername/VisitBaliNow.git
+   ```
