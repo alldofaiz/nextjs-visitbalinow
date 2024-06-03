@@ -20,19 +20,3 @@ If you are interested in purchasing this website or exploring potential collabor
 **Email:** [alldofaiz@gmail.com](mailto:alldofaiz@gmail.com)
 
 We are open to discussions and looking forward to potential partnerships.
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- Node.js
-- npm (Node Package Manager)
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/yourusername/VisitBaliNow.git
-   ```
